@@ -1,7 +1,7 @@
 ### Simple application made in React JS, has a button that when clicked records an event and sends it to Amazon PinPoint using the Amplify JS library. It has another button to log off the session, which uses the Amazon Cognito Auth method. ###
 
 
-
+_________________________________________________________________
 
 ### Aplicação simples feita em React JS, possui um botão que ao ser clicado registra um evento e envia para o Amazon PinPoint usando a biblioteca Amplify JS. Possui outro botão para fazer logoff da sessão, que usa o metódo Auth do Amazon Cognito. ###
 
